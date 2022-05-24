@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<ObjectRepository>
+  <Objects>
+    <ObjectName>ctxtMEPO_TOPLINE-SUPERFIELD</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter ctxtMEPO_TOPLINE-SUPERFIELD</StepDescription>
+    <Data>ctxtMEPO_TOPLINE-SUPERFIELD</Data>
+    <Action>Assign</Action>
+    <TCode>me21n</TCode>
+    <PhysicalName />
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0016/subSUB0:SAPLMEGUI:0030/subSUB1:SAPLMEGUI:1105/ctxtMEPO_TOPLINE-SUPERFIELD</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>MEPO_TOPLINE-SUPERFIELD</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Focus CText MEPO_TOPLINE-SUPERFIELD</StepDescription>
+    <Action>Assign</Action>
+    <TCode>me21n</TCode>
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0016/subSUB0:SAPLMEGUI:0030/subSUB1:SAPLMEGUI:1105/ctxtMEPO_TOPLINE-SUPERFIELD</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtMEPO1222-EKORG</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter Purch._Org.</StepDescription>
+    <Data>ctxtMEPO1222-EKORG</Data>
+    <Action>Assign</Action>
+    <TCode>me21n</TCode>
+    <PhysicalName>Purch._Org.</PhysicalName>
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB1:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1102/tabsHEADER_DETAIL/tabpTABHDT8/ssubTABSTRIPCONTROL2SUB:SAPLMEGUI:1221/ctxtMEPO1222-EKORG</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtMEPO1222-EKGRP</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter Purch._Group</StepDescription>
+    <Data>ctxtMEPO1222-EKGRP</Data>
+    <Action>Assign</Action>
+    <TCode>me21n</TCode>
+    <PhysicalName>Purch._Group</PhysicalName>
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB1:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1102/tabsHEADER_DETAIL/tabpTABHDT8/ssubTABSTRIPCONTROL2SUB:SAPLMEGUI:1221/ctxtMEPO1222-EKGRP</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>ctxtMEPO1222-BUKRS</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Enter Company_Code</StepDescription>
+    <Data>ctxtMEPO1222-BUKRS</Data>
+    <Action>Assign</Action>
+    <TCode>me21n</TCode>
+    <PhysicalName>Company_Code</PhysicalName>
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB1:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1102/tabsHEADER_DETAIL/tabpTABHDT8/ssubTABSTRIPCONTROL2SUB:SAPLMEGUI:1221/ctxtMEPO1222-BUKRS</ObjectId>
+  </Objects>
+  <Objects>
+    <ObjectName>MEPO1222-BUKRS</ObjectName>
+    <ObjectType>GuiCTextField</ObjectType>
+    <StepDescription>Focus CText MEPO1222-BUKRS</StepDescription>
+    <Action>Assign</Action>
+    <TCode>me21n</TCode>
+    <ObjectId>wnd[0]/usr/subSUB0:SAPLMEGUI:0013/subSUB1:SAPLMEVIEWS:1100/subSUB2:SAPLMEVIEWS:1200/subSUB1:SAPLMEGUI:1102/tabsHEADER_DETAIL/tabpTABHDT8/ssubTABSTRIPCONTROL2SUB:SAPLMEGUI:1221/ctxtMEPO1222-BUKRS</ObjectId>
+  </Objects>
+</ObjectRepository>
